@@ -2,4 +2,4 @@
 
 [Live Preview](https://apps.damirpristav.com/react-calendar)
 
-<!-- [Blog Post]() -->
+[Blog Post](https://codingfromscratch.dev/reactjs-custom-hook-for-calendar/)
